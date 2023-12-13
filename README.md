@@ -86,9 +86,3 @@ The graphical user interface which serves as the front-end of the application.
 5. **Data Visualization**: Offers visual representations like pie charts for genres, dates, and prices of books.
 6. **Feedback & Alerts**: Shows pop-up alerts for various actions like successful book addition, errors, etc.
 
----
-
-## Notes:
-
-The application serves as a comprehensive solution for book management. It is recommended to conduct regular testing, apply updates, and integrate further security 
-measures for user data protection. Always keep the software up to date and enhance features based on user feedback.
